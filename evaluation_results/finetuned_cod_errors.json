@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Jada, Rory, and Kora make clay dishes to present as art for their school project. Jada makes twice a...",
+    "ground_truth": "140",
+    "predicted": "180",
+    "response": "Kora made 20 dishes. Rory made 40 dishes. Jada made 120 dishes. Total dishes: 180. #### 180..."
+  },
+  {
+    "question": "Three people invested $1200 in a joint savings account.  After Dylan's investment of 2/5 of the tota...",
+    "ground_truth": "240",
+    "predicted": "80",
+    "response": "Calculate Dylan's investment. Subtract from total. Calculate Frances's investment. Subtract from remaining. Find Skyler's investment. #### 80..."
+  },
+  {
+    "question": "A Tyrannosaurus rex ate half of a small triceratops it had hunted. When it left, a pack of velocirap...",
+    "ground_truth": "1080",
+    "predicted": "540",
+    "response": "Allosaurus ate half. Velociraptors left half. T-Rex ate half. Triceratops had 540 kg. Calculation: 270 * 2 * 2. #### 540..."
+  },
+  {
+    "question": "Rob, Royce, and Pedro are contractors getting ready to put a new roof on three homes. If the three h...",
+    "ground_truth": "100",
+    "predicted": "140",
+    "response": "Define variables. First house: x. Second house: 2x. Third house: 4x. Set up equation: x + 2x + 4x = 250. Simplify: 7x = 250. Solve for x: x = 250/7. Calculate x: x = 35. Third house needs: 4 * 35. Fin..."
+  },
+  {
+    "question": "A pencil cost $0.50, and an eraser cost $0.25. If you bought 6 pencils and 8 erasers and paid $10, h...",
+    "ground_truth": "5",
+    "predicted": "1",
+    "response": "Calculate pencil cost. Calculate eraser cost. Add both costs. Subtract from $10. Find change amount. #### 1..."
+  },
+  {
+    "question": "Gary does laundry twice a week. Each load of laundry uses 20 gallons of water, and a gallon of water...",
+    "ground_truth": "312",
+    "predicted": "156",
+    "response": "Calculate weekly water usage. Multiply by 52 weeks. Calculate yearly cost. Multiply by cost per gallon. Final total. #### 156..."
+  },
+  {
+    "question": "A toy manufacturer receives an order for 400 toys. 5 workers are available to work on the order. 2 o...",
+    "ground_truth": "18",
+    "predicted": "2",
+    "response": "Calculate first two workers' toys. Calculate next two workers' toys. Sum total toys produced. Calculate toys needed for order. Determine fifth worker's production. Calculate fifth worker's hourly rate..."
+  },
+  {
+    "question": "Max plans to watch two movies this weekend. The first movie is 1 hour and 30 minutes long while the ...",
+    "ground_truth": "215",
+    "predicted": "185",
+    "response": "Calculate first movie duration. Add second movie duration. Total duration is 185 minutes. #### 185..."
+  },
+  {
+    "question": "Laurel's friend gave her 24 baby outfits that her child no longer needed.  At her baby shower, Laure...",
+    "ground_truth": "87",
+    "predicted": "63",
+    "response": "Calculate new outfits. Add gifted outfits. Total outfits = 63. #### 63..."
+  },
+  {
+    "question": "Dale is selling butterscotch candies to raise money for his club at school. He doesn't have the cand...",
+    "ground_truth": "50",
+    "predicted": "150",
+    "response": "Sold 150 candies. Ordered 100 more. Total candies now 250. Started with 100 candies. Needs to sell 150 more. #### 150..."
+  },
+  {
+    "question": "Brianne and Ashley make greek orange pie. Ashley brought five boxes with ten oranges in each box, wh...",
+    "ground_truth": "40",
+    "predicted": "10",
+    "response": "Calculate Ashley's oranges. Add Brianne's oranges. Total oranges together. Divide by oranges per pie. Calculate number of pies. #### 10..."
+  },
+  {
+    "question": "Valerie earns $5000 per month, 1/2 of what her brother earns. If their mother earns twice their comb...",
+    "ground_truth": "45000",
+    "predicted": "30000",
+    "response": "Calculate brother's earnings. Add Valerie's earnings. Calculate mother's earnings. Sum all earnings. Final total is $30,000. #### 30000..."
+  },
+  {
+    "question": "Andy's car fuel efficiency is 10 MPG (miles per gallon). If the current price for regular gas is $3/...",
+    "ground_truth": "15",
+    "predicted": "7.5",
+    "response": "Calculate daily commute distance. Multiply by 2. Calculate weekly commute distance. Multiply by 5. Calculate weekly gas consumption. Divide by 10. Calculate weekly cost. Multiply by 3. Final cost is $..."
+  },
+  {
+    "question": "If a classroom has 3 times as many girls as they do boys, and 1/10 as many nongendered children as t...",
+    "ground_truth": "123",
+    "predicted": "130",
+    "response": "30 boys. 90 girls. 3 times boys. 3*30=90. 3 boys per girl. 30/3=10. 10 non-gendered children. 30+90+10=130. Total children is 130. #### 130..."
+  },
+  {
+    "question": "Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought...",
+    "ground_truth": "16",
+    "predicted": "10",
+    "response": "Calculate cost of 15 roses. Subtract dozen cost. Find cost of 3 roses. Calculate total spent. Subtract from $25. Convert to quarters. #### 10..."
+  },
+  {
+    "question": "Ten stalls have 20 cows each. Mr. Sylas buys 40 cows and divides them equally, putting an equal numb...",
+    "ground_truth": "192",
+    "predicted": "96",
+    "response": "Calculate initial cows: 200. Add new cows: 240. Divide by stalls: 12. Calculate cows in 8 stalls: 96. #### 96..."
+  },
+  {
+    "question": "John and DeSean bought a bag of marshmallows to make s'mores together. The bag has 35 marshmallows. ...",
+    "ground_truth": "7",
+    "predicted": "4",
+    "response": "Calculate total marshmallows used. Subtract from total marshmallows. Divide remaining by kids. Each kid gets 4 marshmallows. #### 4..."
+  },
+  {
+    "question": "Brittany's quilted comforter has many 1-foot by 1-foot colored squares. The comforter had 14 red squ...",
+    "ground_truth": "68",
+    "predicted": "82",
+    "response": "Calculate blue squares. Add green squares. Calculate white squares. Sum all squares. Total is 82. #### 82..."
+  },
+  {
+    "question": "John wins an award at work.  The award has a 1 time monetary reward of $5000 and a 5% raise in salar...",
+    "ground_truth": "114200",
+    "predicted": "114000",
+    "response": "Calculate weekly raise. Multiply by 52. Calculate total salary. Add one-time payment. Final total is $114,000. #### 114000..."
+  },
+  {
+    "question": "To fund his store, Mr. Josue solicited money from two banks. The first bank gave him $4000, and the ...",
+    "ground_truth": "17000",
+    "predicted": "18000",
+    "response": "Calculate second bank's amount. Add first bank's amount. Total funds calculation. Final total is $18000. #### 18000..."
+  },
+  {
+    "question": "I am three years younger than my brother, and I am 2 years older than my sister. My mom's age is one...",
+    "ground_truth": "13",
+    "predicted": "15",
+    "response": "Define variables. Sum ages equation. Substitute variables. Simplify equation. Solve for b. Calculate my age. Final answer. #### 15..."
+  },
+  {
+    "question": "Ted the T-Rex was planning to bring potato salad to the dinosaur picnic.  He knows that an adult din...",
+    "ground_truth": "225",
+    "predicted": "150",
+    "response": "Calculate adult potato salad. Multiply 20 by 10. Calculate child potato salad. Multiply 5 by 5. Add both amounts together. Total is 150 lbs. #### 150..."
+  },
+  {
+    "question": "Andrea has 8 more apples than Jamal and half as many bananas as Jamal. Jamal has 4 more bananas than...",
+    "ground_truth": "168",
+    "predicted": "148",
+    "response": "Jamal has 8 fewer apples. Jamal has 44 apples. Jamal has 48 bananas. Total fruits: 44 + 48. Andrea has 52 apples. Total fruits: 52 + 26. Combined total fruits: 70 + 78. Final total fruits: 148. #### 1..."
+  },
+  {
+    "question": "Carolyn works for a delivery service company that hires on a contract basis. In May, they hired 40 e...",
+    "ground_truth": "168000",
+    "predicted": "144000",
+    "response": "Calculate May's total hours. Multiply 40 employees by 40 hours. Calculate May's total pay. Multiply 1600 hours by $15. Calculate June's remaining employees. Subtract 10 from 40. Calculate June's total..."
+  },
+  {
+    "question": "James gets 80 emails a day.  20% of those emails don't require any response.  He responds to the res...",
+    "ground_truth": "320",
+    "predicted": "256",
+    "response": "Calculate non-response emails. Subtract from total. Calculate response emails. Multiply by 5 days. Final total of response emails. #### 256..."
+  },
+  {
+    "question": "Aleena subscribed to a streaming service that charges her $140 per month. If the streaming company c...",
+    "ground_truth": "1596",
+    "predicted": "1512",
+    "response": "Calculate first half payment. Multiply by 6 months. Calculate 10% discount. Find new monthly rate. Calculate second half payment. Multiply by 6 months. Add both totals together. Final total is $1,512...."
+  },
+  {
+    "question": "Randy has 9 oatmeal cookies, 4 chocolate chip cookies, and 5 sugar cookies. He ate 3 cookies for an ...",
+    "ground_truth": "23",
+    "predicted": "20",
+    "response": "Calculate initial cookies. Subtract eaten cookies. Subtract given cookies. Subtract lunch cookies. Add baked cookies. Total cookies now. #### 20..."
+  },
+  {
+    "question": "Raphael went to buy some school supplies. He bought 4 pens which cost $1.5 each, 2 notebooks which c...",
+    "ground_truth": "34",
+    "predicted": "38",
+    "response": "Calculate pen cost. Calculate notebook cost. Add total costs. Include bond paper cost. Find overall total. #### 38..."
+  },
+  {
+    "question": "In a room, there are various toys: 5 red cars, 3 action figures, and a doll. The doll cost as much a...",
+    "ground_truth": "50",
+    "predicted": "51",
+    "response": "Calculate car cost. Calculate action figures cost. Calculate doll cost. Sum all costs. Total is $51. #### 51..."
+  },
+  {
+    "question": "Three friends spent $20.25 on 3 tickets to the fair. They also spent $4.50 less on food than on the ...",
+    "ground_truth": "34",
+    "predicted": "25",
+    "response": "Calculate ticket cost. Subtract food cost. Calculate ride cost. Add total expenses. Divide by number of friends. #### 25..."
+  },
+  {
+    "question": "Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it will grow 7 lemons, w...",
+    "ground_truth": "13",
+    "predicted": "5",
+    "response": "Calculate yearly earnings. Subtract costs. Determine profit. Calculate years to profit. Final answer. #### 5..."
+  },
+  {
+    "question": "There are 6 periods in the day for a normal student but John has to take 2 extra classes.  Each clas...",
+    "ground_truth": "30",
+    "predicted": "20",
+    "response": "Calculate daily class time. Multiply by 5 days. Calculate weekly minutes. Divide by 16. Calculate weekend study time. Add weekend to weekday. Convert minutes to hours. #### 20..."
+  },
+  {
+    "question": "Bob is in charge of doing laundry for a large hotel. Each room has two sheets, one comforter, twice ...",
+    "ground_truth": "1200",
+    "predicted": "960",
+    "response": "Calculate pillow cases per room. Multiply by rooms. Calculate towels per room. Multiply by rooms. Calculate sheets per room. Multiply by rooms. Calculate comforters per room. Multiply by rooms. Sum al..."
+  },
+  {
+    "question": "Joe has $50 to buy an outfit for his new field trip. There is a 30% off sale at the clothing store. ...",
+    "ground_truth": "8",
+    "predicted": "10",
+    "response": "Calculate total outfit cost. Add shirt and shorts prices. Find discount amount. Subtract discount from total. Calculate remaining money. #### 10..."
+  },
+  {
+    "question": "Last month, Tasha made $80 from selling lemonade and mowing lawns. The first week, she mowed Kamala'...",
+    "ground_truth": "26",
+    "predicted": "38",
+    "response": "Calculate Kamala's payment. Calculate Alba's payment. Sum total payments. Subtract from $80. Find lemonade sales. #### 38..."
+  },
+  {
+    "question": "Topher, the green giant, wears enormous shoes.  The length of one of his shoes is 10 inches longer t...",
+    "ground_truth": "10",
+    "predicted": "8",
+    "response": "Convert feet to inches. Multiply 8 by 12. Add 4 inches. Set equation for Bobby's shoes. Solve for B. Calculate B's value. Final answer is 8. #### 8..."
+  },
+  {
+    "question": "April is donating plant pots to a local school for their new garden. They ask for 30 plant pots for ...",
+    "ground_truth": "10",
+    "predicted": "40",
+    "response": "Calculate pots for roses. Add total plant pots. Subtract used pots. Find leftover pots. Result is 40. #### 40..."
+  },
+  {
+    "question": "Maria was charging her power bank before going to the park when she disconnected it and noticed the ...",
+    "ground_truth": "94",
+    "predicted": "25",
+    "response": "Calculate charge after 3 hours. Subtract 7% from 28%. Result is 21%. Calculate charge after 5 hours. Divide 21% by 0.91. Result is 23.08%. Round to 23%. Final charge before leaving home. Divide 23% by..."
+  },
+  {
+    "question": "Marcus is trying to decide whether he really needs to do his homework. There's a 50% chance that tom...",
+    "ground_truth": "24",
+    "predicted": "6",
+    "response": "Calculate substitute teacher chance. 50% chance homework not due. Calculate extension chance. 60% chance homework due. Calculate personal extension chance. 20% chance homework still due. Multiply prob..."
+  },
+  {
+    "question": "Calvin is making soup for his family for dinner. He has a pot with enough soup to fill four adult's ...",
+    "ground_truth": "1",
+    "predicted": "2",
+    "response": "Calculate adult bowls needed. Add adult bowls. Calculate child bowls needed. Add child bowls. Calculate total bowls needed. Subtract used bowls. Calculate leftover bowls. Divide by child bowls. Result..."
+  },
+  {
+    "question": "A shop sells school supplies. One notebook is sold at $1.50 each, a pen at $0.25 each, a calculator ...",
+    "ground_truth": "27",
+    "predicted": "20",
+    "response": "Calculate notebook cost. Calculate pen cost. Add all item costs. Calculate discount amount. Subtract discount from total. Final amount is $20. #### 20..."
+  },
+  {
+    "question": "An electronics seller bought 5 phones for $700 each and gives the seller $4000 in dollar bills. How ...",
+    "ground_truth": "500",
+    "predicted": "15000",
+    "response": "Calculate total cost. Subtract from total. Find change amount. #### 15000..."
+  },
+  {
+    "question": "Trinity sells magazines at 11/8 of the price she bought the magazines. If she bought the magazines a...",
+    "ground_truth": "27",
+    "predicted": "9",
+    "response": "Calculate selling price. Subtract cost. Find profit. Result is $9. #### 9..."
+  },
+  {
+    "question": "Maddy is buying pizza for her cousin's soccer game. There are 12 team members and 3 coaches. Each te...",
+    "ground_truth": "195",
+    "predicted": "150",
+    "response": "Calculate guests: 12 x 2. Add team and coaches: 24 + 3 + 1. Total people: 28. Divide by pizza servings: 28 / 3. Calculate pizzas: 9.33, round up to 10. Calculate cost: 10 x 15. Total cost: $150. #### ..."
+  }
+]

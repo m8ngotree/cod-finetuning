@@ -1,0 +1,140 @@
+[
+  {
+    "question": "Jean is two years older than Mark.  Two years ago Mark was 5 years older than half Jan's age.  If Ja...",
+    "ground_truth": "23",
+    "predicted": "32",
+    "response": "Jan is 30. Mark's age: 30 - 2 = 28. Two years ago: Mark was 26. Half Jan's age: 30/2 = 15. Two years ago: 15 + 5 = 20. Mark was 26, not 20. Jean's age: 30 + 2 = 32. \n\n#### 32..."
+  },
+  {
+    "question": "Mark buys a fleet of 12 cars for his company.  Each car sells for $20,000.  He pays 10% tax on the c...",
+    "ground_truth": "276000",
+    "predicted": "252000",
+    "response": "Calculate car cost. Multiply 12 by 20,000. Add tax. Calculate 10% of total. Add registration. Multiply 1,000 by 12. Sum all costs. \n\n#### 252000..."
+  },
+  {
+    "question": "After tracking his workout routine for 8 weeks, Josh discovered that he had spent 4 hours working ou...",
+    "ground_truth": "36",
+    "predicted": "48",
+    "response": "8 weeks total. 4 hours/week. 4 hours * 8 weeks = 32 hours. 2 weeks at 5 hours = 10 hours. 1 week at 6 hours = 6 hours. Total = 32 + 10 + 6 = 48 hours. #### 48..."
+  },
+  {
+    "question": "Sally went to the seashore for vacation.  Her parents gave her $10 to buy whatever she wanted.  At t...",
+    "ground_truth": "3",
+    "predicted": "4.5",
+    "response": "Initial amount: $10. Taffy cost: $3 + $1.50. Magnet cost: 4 x $0.25. Total spent: $3 + $1.50 + $1.00. Remaining amount: $10 - total spent. Calculate total spent: $5.50. Remaining amount: $10 - $5.50. ..."
+  },
+  {
+    "question": "Audrey has to take two math tests to pass 6th grade. She must correctly answer 70% of the total ques...",
+    "ground_truth": "35",
+    "predicted": "26",
+    "response": "Calculate total questions. 70 + 40. Calculate correct answers needed. 70% of total. First test correct answers. 60% of 70. Calculate remaining correct answers. Total needed minus first test. Set up eq..."
+  },
+  {
+    "question": "Vince can staple 30 reports every 15 minutes.  If he was stapling reports from 8:00 AM until 11:00 P...",
+    "ground_truth": "360",
+    "predicted": "1800",
+    "response": "Calculate time duration. 8 AM to 11 PM. Total hours: 15 hours. Convert to minutes. 15 hours = 900 minutes. Calculate reports per minute. 30 reports / 15 minutes = 2 reports per minute. Total reports s..."
+  },
+  {
+    "question": "Brendan has a bag of marbles with 10 inside. He tripped over a pebble while carrying it and dropped ...",
+    "ground_truth": "7",
+    "predicted": "2",
+    "response": "10 marbles. Dropped half. Found 3. One bead discarded. Total marbles = 3 - 1. Final count = 2. #### 2..."
+  },
+  {
+    "question": "Two thirds of Jana's puppies are Pomeranians. One third of the Pomeranians are girls. If there are 6...",
+    "ground_truth": "27",
+    "predicted": "40",
+    "response": "Pomeranian girls: 6. One third: 18. Total Pomeranians: 27. Two thirds: 40. Total puppies: 40. #### 40..."
+  },
+  {
+    "question": "Paul is at a train station and is waiting for his train. He isn't sure how long he needs to wait, bu...",
+    "ground_truth": "145",
+    "predicted": "95",
+    "response": "First train arrives in 10. First train stays for 20. Second train arrives in 40. Second train stays for 5. Third train arrives in 65. Third train leaves immediately. Fourth train arrives in 20. Total ..."
+  },
+  {
+    "question": "In one year, the number of students on campus doubles at the end of every month. If there are 10 stu...",
+    "ground_truth": "310",
+    "predicted": "150",
+    "response": "Start with 10 students. . Monthly doubling: 10, 20, 40, 80, 160. . End of May: 160 students. . Additional students: 160 - 10. . Total additional students: 150. #### 150..."
+  },
+  {
+    "question": "Zaid spends 1/4 of his salary on rent, 1/3 on car fuel and donates half of the remaining amount to h...",
+    "ground_truth": "350",
+    "predicted": "2200",
+    "response": "Calculate rent: 6000 * 1/4. Calculate fuel: 6000 * 1/3. Remaining after rent and fuel. Calculate charity donation: remaining * 1/2. Subtract daughter's and wife's amounts. Final amount left. \n\n#### 22..."
+  },
+  {
+    "question": "John buys 10 bottles of scotch for a total cost of $600.  He also buys twice as many bottles of cogn...",
+    "ground_truth": "2400",
+    "predicted": "1800",
+    "response": "Cost of scotch: $600. Bottles of cognac: 20. Cognac cost per bottle: $60. Total cognac cost: $1200. Total spent: $1800. #### 1800..."
+  },
+  {
+    "question": "Jeans makeup artist charges her $250 an hour.  She requires very expensive makeup for a movie she is...",
+    "ground_truth": "27000",
+    "predicted": "6600",
+    "response": "Calculate hourly rate. Multiply by hours. Multiply by days per week. Multiply by weeks. Calculate discount. Subtract discount from total. \n\n#### 6600..."
+  },
+  {
+    "question": "John had a son James when he was 19.  James is now twice as old as his sister Dora, who will turn 12...",
+    "ground_truth": "8",
+    "predicted": "6",
+    "response": "James is 12 now. Dora is 6 now. John's youngest son is 3 now. In 3 years, he will be 6. #### 6..."
+  },
+  {
+    "question": "To raise money for their class fund, each of the 30 students from one class sold lollipops that cost...",
+    "ground_truth": "90",
+    "predicted": "9.0",
+    "response": "Calculate total lollipops sold. 30 students times 10 lollipops. Find total revenue from sales. 30 times 10 times $0.8. Calculate total cost of lollipops. 30 times 10 times $0.5. Find profit by subtrac..."
+  },
+  {
+    "question": "Aaron and Vanessa were relay race partners on a running team. Aaron was able to run each mile twice ...",
+    "ground_truth": "64",
+    "predicted": "16",
+    "response": "Aaron's speed: 2x Vanessa's. Vanessa's distance: 2x Aaron's. Aaron ran 4 miles. Aaron's time: 16 minutes. Vanessa's speed: 4 miles/16 minutes = 0.25 miles/minute. Vanessa's time: 4 miles / 0.25 miles/..."
+  },
+  {
+    "question": "Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it will grow 7 lemons, w...",
+    "ground_truth": "13",
+    "predicted": "12",
+    "response": "Initial cost $90. Annual lemons 7. Revenue per lemon $1.5. Annual revenue $10.5. Annual cost $3. Net profit $7.5. Years to break even: $90 / $7.5 = 12. #### 12..."
+  },
+  {
+    "question": "Brinley is in Mr. Bert's math class. Mr. Bert gives six tests each semester. He allows the students ...",
+    "ground_truth": "98",
+    "predicted": "191",
+    "response": "Calculate total needed for average. Total for 6 tests: 93 * 6. Total = 558. Calculate current total scores. Current total: 89 + 71 + 92 + 100 + 86. Current total = 438. Determine lowest score to drop...."
+  },
+  {
+    "question": "A regular box of 100 dishwasher pods costs $12. There's currently a special size box for the same pr...",
+    "ground_truth": "10",
+    "predicted": "8",
+    "response": "Calculate original pods: 100. Calculate new pods: 120. Cost per pod: $0.12. Cost per cycle: $1. Cycles per dollar: 8. #### 8..."
+  },
+  {
+    "question": "John decides to build a program capable of identifying cancer cells.  He gets initial funding of $10...",
+    "ground_truth": "1450000",
+    "predicted": "250000",
+    "response": "Initial funding $100,000. 5 months. Research takes 10 times longer. 10 months total. 5 months funded, 5 months extra. Extra funding 50% more. Monthly cost $20,000 after 5 months. Extra cost $20,000 * ..."
+  },
+  {
+    "question": "One meatball sub sandwich contains 4 meatballs.  Sidney ordered 3 less than ten meatball sub sandwic...",
+    "ground_truth": "24",
+    "predicted": "12",
+    "response": "Ten minus three equals seven. Sidney ordered seven sandwiches. Each sandwich has four meatballs. Total meatballs: seven times four. Mark ate four sandwiches. Remaining sandwiches: seven minus four. Re..."
+  },
+  {
+    "question": "A food caterer was told to prepare gourmet hot dogs for 36 guests. While most people would only eat ...",
+    "ground_truth": "26",
+    "predicted": "0",
+    "response": "Prepare for 36 guests. Half eat two. Total hotdogs = 36 + 18. Total hotdogs = 54. 40 guests want second. 40 hotdogs needed. 54 - 40 = 14 extra. All get second. 0 guests without second. \n\n#### 0..."
+  },
+  {
+    "question": "At Allan's house, there is twice as much corn as cannolis. He has a total of 40 cannolis in his hous...",
+    "ground_truth": "200",
+    "predicted": "140",
+    "response": "Corn = 2 * Cannolis. Cannolis = 40. Corn = 80. Bought 60 more cannolis. New cannolis = 100. Bought 40 fewer corns. New corn = 40. Total = 100 + 40. Total = 140. #### 140..."
+  }
+]
